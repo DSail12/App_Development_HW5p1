@@ -1,4 +1,4 @@
-//
+// 
 //  Helper.swift
 //  HW_5_news
 //

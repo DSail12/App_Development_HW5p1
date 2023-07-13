@@ -1,4 +1,4 @@
-//
+// 
 //  NewsModel.swift
 //  HW_5_news
 //
